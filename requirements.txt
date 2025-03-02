@@ -1,0 +1,12 @@
+streamlit
+sklearn
+fuzzywuzzy
+distance
+bs4
+string
+re
+pickle
+numpy
+nltk
+scikit-learn
+
