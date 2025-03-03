@@ -15,7 +15,7 @@ The dataset used for this project is sourced from Kaggle:
 - [Quora Question Pairs](https://www.kaggle.com/c/quora-question-pairs)
 
 
-### **Project Description :-**
+### Project Description :-
 
 This project leverages a machine learning approach to solve the problem of question pair similarity. The goal is to determine whether two given questions are 
 asking about the same thing, even if they are phrased differently. This is useful in various applications, such as:
@@ -24,14 +24,14 @@ asking about the same thing, even if they are phrased differently. This is usefu
 - Building more intelligent search engines.
 - Improving recommendation systems.
 
-### **Features :-**
+### Features :-
 
 - `Question pair similarity prediction`: The core feature is the ability to predict if two questions are semantically similar.
 - `Preprocessing`: Includes tokenization, vectorization, and stop-word removal.
 - `Model training`: The project utilizes advanced machine learning algorithms for training the model.
 - `Evaluation`: Performance metrics such as accuracy score, confusion matrix to evaluate the model's effectiveness.
 
-### **Technologies Used :-**
+### Technologies Used :-
 
 - `Python` - Programming language used for building the project.
 - `Scikit-learn` - For preprocessing and other machine learning model building and training tasks.
