@@ -52,3 +52,18 @@ asking about the same thing, even if they are phrased differently. This is usefu
 - `NLTK` - For natural language processing tasks like tokenization and stop word removal.
 - `Matplotlib/Seaborn` - For data visualization and plotting results.
 
+### Result :-
+
+| Model                         | Vectorization Technique	 | Features      | Accuracy |
+|-------------------------------|--------------------------|---------------|----------|
+| Random Forest	                | Bag of Words             | Basic         | 76.85%   |
+| XGBoost                       | Bag of Words             | Basic         | 76.48%   |
+| Random Forest	                | Tfidf                    | Basic         | 76.71%   |
+| XGBoost                       | Tfidf                    | Basic         | 76.23%   |
+| Random Forest	                | Word2Vec	               | Basic         | 74.56%   |
+| XGBoost                       | Word2Vec	               | Basic         | 75.7%    |
+| Random Forest                 | Bag of Words             | Basic+Advance | 79.09%   |
+| XGBoost                       | Bag of Words             | Basic+Advance | 79.52%   |
+| Random Forest                 | Word2Vec                 | Basic+Advance | 78.54%   |
+| XGBoost                       | Word2Vec	               | Basic+Advance | 78.54%   |
+
