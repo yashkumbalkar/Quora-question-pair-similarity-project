@@ -8,7 +8,7 @@ The Quora Question Pair Similarity project is a machine learning-based model tha
 This model uses natural language processing (NLP) techniques to compare two questions and assess their semantic similarity, providing a binary classification 
 result: similar or not similar.
 
-### Data Source :-**
+### Data Source :-
 
 The dataset used for this project is sourced from Kaggle:
 
