@@ -2,7 +2,6 @@ streamlit
 fuzzywuzzy
 distance
 beautifulsoup4
-re
 numpy
 nltk
 scikit-learn
