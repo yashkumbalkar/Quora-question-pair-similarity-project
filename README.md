@@ -12,7 +12,7 @@ result: similar or not similar.
 
 The dataset used for this project is sourced from Kaggle:
 
-- [https://www.kaggle.com/c/quora-question-pairs]
+- [Quora Question Pairs](https://www.kaggle.com/c/quora-question-pairs)
 
 
 ### **Project Description :-**
