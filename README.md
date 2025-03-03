@@ -2,7 +2,7 @@
 
 # Quora Question Pair Similarity
 
-### **Overview :-**
+### Overview :-
 
 The Quora Question Pair Similarity project is a machine learning-based model that predicts whether two questions on the Quora platform are similar or not. 
 This model uses natural language processing (NLP) techniques to compare two questions and assess their semantic similarity, providing a binary classification 
