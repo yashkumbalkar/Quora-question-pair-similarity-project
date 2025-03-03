@@ -1,6 +1,6 @@
 ## **Deployed App on Streamlit link :-** [click here](https://yashkumbalkar-quora-question-pair-similarity-project-app-00ufq0.streamlit.app/)
 
-# Quora Question Pair Similarity
+# Quora Question Pair Similarity Project
 
 ### Overview :-
 
@@ -23,6 +23,18 @@ asking about the same thing, even if they are phrased differently. This is usefu
 - Identifying duplicate questions on Q&A platforms like Quora.
 - Building more intelligent search engines.
 - Improving recommendation systems.
+
+### Conclusions after EDA :-
+
+- `63.08%` of question pairs is not duplicate and `36.91%` is duplicate in Dataset.
+- There are 537933 unique questions and 111780 questions getting repeated.
+- Frequency of Most Repeated questions are less than 60 and very few questions are Repeated more than 60 times. You can see one question which have `id-2559` repeated 157 times.
+- Average Number of Characters in question 1 is 59 and in question 2 is 60.
+- Average Number of Words in question 1 is 10 and in question 2 is 11.
+- If Both questions have less than 4 common words then probabilty of getting not duplicate is high.
+- Duplicate question pairs have more total words than non-duplicate question pairs.
+- If word share percentage is more than `15%` than the probabilty of duplicate question is high.
+- If the first two words and last two words of both questions are not same then probability of non-duplicate is high.
 
 ### Features :-
 
